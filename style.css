@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Quicksand", sans-serif;
+    color: #333333;
+}
+.hello{
+    font-size: 90px;
+}
+.main{
+    font-size: 50px;
+    color: #111111;
+}  
+.icon {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    line-height: 14px;
+    font-size: 25px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8a47f6;
+}
+.icon2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    line-height: 14px;
+    font-size: 25px;
+    background-color: #fff !important;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
